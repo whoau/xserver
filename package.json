@@ -1,0 +1,10 @@
+{
+  "name": "xserver-auto-renew",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node renew.js"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
